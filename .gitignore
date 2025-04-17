@@ -1,6 +1,6 @@
 # data directories
 
-day1/MNIST
+day1/MNIST/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
