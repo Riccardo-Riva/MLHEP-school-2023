@@ -1,3 +1,7 @@
+# data directories
+
+day1/MNIST
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
